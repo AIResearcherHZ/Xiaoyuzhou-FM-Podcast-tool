@@ -1,0 +1,7 @@
+PyQt5
+pydub
+tqdm
+requests
+faster-whisper
+selenium==4.29.0
+torch
