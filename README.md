@@ -20,10 +20,6 @@
 
 Xiaoyuzhou FM Podcast Downloader & Transcriber is a desktop application that allows users to download podcast audio from the Xiaoyuzhou platform and transcribe it into text or SRT subtitle format. The tool features a modern interface design, supports GPU-accelerated transcription, and provides a convenient solution for podcast enthusiasts and content creators.
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=Xiaoyuzhou+FM+Tool+Screenshot" alt="Application Screenshot">
-</p>
-
 ## ✨ Key Features
 
 - **Podcast Download**: One-click download of audio files via Xiaoyuzhou podcast links
